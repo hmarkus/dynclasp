@@ -19,10 +19,10 @@ such that that this solver is enabled to exploit this information, which otherwi
 
 ## Requirements
 In order to use this set of scripts, the following is required:
-[htd](https://github.com/mabseher/htd)
-[D-FLAT](https://github.com/bbliem/dflat)
+[htd](https://github.com/mabseher/htd),
+[D-FLAT](https://github.com/bbliem/dflat),
 [gringo](http://potassco.sourceforge.net/) and
-[clasp] (http://potassco.sourceforge.net/)
+[clasp] (http://potassco.sourceforge.net/). To compile and use D-FLAT, additional patches are required to be added from the dflat directory of this repository.
 
 ## The test scripts
 
